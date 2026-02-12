@@ -1,2 +1,2 @@
-print("Hello World")  git config --global user.email "you@example.com"
-  git config --global user.name "Your Name"
+print("Hello World")  
+print("change in main")
